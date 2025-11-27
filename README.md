@@ -5,8 +5,7 @@
 ------------A full-stack Task Management System built using Spring Boot, PostgreSQL, JWT Authentication, React.js, and Tailwind CSS.
 Designed for real-world use with clean UI, role-based secure access, AI-based task suggestions, analytics dashboard, and complete CRUD flow.--------------
 
---------Features---------
-
+Features
   Authentication & Security
 	•	User signup & login
 	•	JWT Access & Refresh tokens
@@ -16,7 +15,7 @@ Designed for real-world use with clean UI, role-based secure access, AI-based ta
 	•	Protected backend routes
 
 
- -------- Task Management---------
+ Task Management
 	•	Create, update, and delete tasks
 	•	Task Priority (Low, Medium, High)
 	•	Task Status (To Do, In Progress, Completed)
@@ -27,7 +26,7 @@ Designed for real-world use with clean UI, role-based secure access, AI-based ta
 	•	Split view: Active Tasks & Completed Tasks
 	•	Task timestamps (created & updated)
 
- -------- Dashboard & Analytics--------
+ Dashboard & Analytics
 	•	Total tasks count
 	•	Completed tasks count
 	•	Completion percentage calculation
@@ -35,7 +34,7 @@ Designed for real-world use with clean UI, role-based secure access, AI-based ta
 	•	Beautiful, clean UI
 	•	Back to home navigation
 
- --------- Frontend (React + Tailwind + Vite)---------
+ Frontend (React + Tailwind + Vite)
 	•	Modern responsive UI
 	•	Clean typography
 	•	Real-time search filtering
